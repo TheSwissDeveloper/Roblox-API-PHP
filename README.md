@@ -13,7 +13,7 @@ Complete API solution for secure client-server communication.
 
 ### Server (PHP)
 ```bash
-git clone [https://github.com/yourusername/secure-api](https://github.com/TheSwissDeveloper/Roblox-API-PHP.git)
+git clone https://github.com/TheSwissDeveloper/Roblox-API-PHP.git
 cd secure-api
 composer install
 ```
