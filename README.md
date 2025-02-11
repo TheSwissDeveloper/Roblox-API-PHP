@@ -211,7 +211,7 @@ define('HASH_DEBUG', true);
 - Generation Time: <1ms
 
 ## 📞 Support
-For questions: support@example.com
+For questions: {discord: TheSwissDeveloper}
 
 ## 📄 License
 MIT License
